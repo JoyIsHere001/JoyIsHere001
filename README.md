@@ -2,18 +2,16 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 **About Me**:
 
 🎮 **BSc Computer Science Student** & **Junior Game Programmer**  
 💡 Lifelong Learner | Passionate about Game Development & Programming  
-🌱 Currently improving my skills in **C, C++, Java, HTML, and CSS**  
-🎯 Exploring creative projects that blend **logic and design**  
-💬 I love discussing ideas about **games, code, and technology**  
-📬 Reach me at: **joysuryapaulchowdhury@gmail.com**
+🎯 Exploring creative projects that blend **logic and design**    
+📬 Reach me at: **js4677294@gmail.com**
 
 ---
 
-## 🧠 Tech Stack and Tools
+## 🧠 **Tech Stack and Tools**:
 
 <div align="center">
   
@@ -40,9 +38,7 @@
 
 ---
 
-## ✨ Fun Quote
-
-> "Keep learning, keep coding, and keep creating — the best ideas come while debugging."
+## ✨ > "Keep learning, keep coding, and keep creating — the best ideas come while debugging."
 
 ---
 
