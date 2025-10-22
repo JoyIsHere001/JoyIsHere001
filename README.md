@@ -6,8 +6,8 @@
 
 ## 🚀 **About Me**:
 
-🎮 **BSc Computer Science Student** & **Junior Game Programmer**  
-💡 Lifelong Learner | Passionate about Game Development & Programming  
+🎮 **Computer Science Student** & **Junior Game Programmer**  
+💡 Lifelong Learner | Passionate about Game Dev & Programming  
 🎯 Exploring creative projects that blend **logic and design**    
 📬 Reach me at: **js4677294@gmail.com**
 
