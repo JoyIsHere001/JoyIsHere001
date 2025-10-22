@@ -1,5 +1,6 @@
-<h1 align="center">👋 Hello !!, I'm Joysurya Paul Chowdhury</h1>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Joysurya+Paul+Chowdhury;🎮+BSc+CS+Student+%7C+Junior+Game+Programmer;💡+Lifelong+Learner+%7C+Tech+Enthusiast" alt="Typing SVG" />
+</p>
 ---
 
 ## 🚀 **About Me**:
