@@ -40,7 +40,8 @@
 
 ---
 
-## ✨ > "Keep learning, keep coding, and keep creating — the best ideas come while debugging."
+## ✨ > "Keep learning and keep creating 
+—💡 the best ideas come while debugging."
 
 ---
 
