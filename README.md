@@ -40,7 +40,7 @@
 
 ---
 
-## ✨ > "Keep learning and keep creating 
+## ✨ > "Keep learning and keep creating 💻✒️"
 —💡 the best ideas come while debugging."
 
 ---
