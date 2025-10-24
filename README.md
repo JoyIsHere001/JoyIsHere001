@@ -41,14 +41,6 @@
 
 ---
 
-## 🕹️ My Developer Vibe  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoySurya914934&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Languages Graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=JoySurya914934&theme=tokyonight&no-frame=true&row=1" height="150" alt="Trophies" />
-</p>
-
----
 
 ## 🌐 Connect With Me  
 
