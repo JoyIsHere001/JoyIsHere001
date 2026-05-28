@@ -1,3 +1,66 @@
+<!-- ===================================================== -->
+<!--                    ANIMATED HEADER                    -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hey+There!+I'm+Joysurya+Paul+Chowdhury+👋;Bachelor's+Computer+Science+Student+💻;Passionate+About+Modern+Technology+🚀;Game+Developer+%7C+Designer+%7C+Creative+Coder;Exploring+AI+and+Interactive+Experiences+🧠;Turning+Raw+Ideas+Into+Interactive+Reality+✨;Building+Projects+with+Creativity+and+Logic+🔥;Learning+%2C+Building+%2C+Improving+Everyday+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Welcome%20To%20My%20GitHub%20Universe&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Programmer%20•%20Game%20Developer%20•%20Designer%20•%20Creative%20Thinker&descAlignY=58&animation=fadeIn"/>
+</p>
+
+---
+
+# 💫 About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+🎓 I’m a **Bachelor's Computer Science student** passionate about **Modern Technology, Programming, Development, Designing, and Artificial Intelligence**.  
+
+💡 I enjoy transforming raw ideas into interactive experiences by visualizing concepts and implementing them through creativity, logic, and code.  
+
+🎮 Currently learning and building projects in:
+- **Core Game Development**
+- **Game Designing**
+- **Artificial Intelligence**
+- **Interactive Systems**
+
+🚀 Constantly sharpening my coding, development, and problem-solving skills through hands-on projects and continuous learning.  
+
+🧠 Focused on improving myself every single day through:
+- Productive activities
+- Learning agendas
+- Self development
+- Consistency & discipline
+
+⚡ I love building things that combine:
+- Creativity
+- Technology
+- Human imagination
+- Interactive storytelling
+
+🏏 Outside tech, I enjoy:
+- Cricket
+- Reading Books
+- Gaming
+- Art & Creativity
+- Self Improvement
+
+🌱 My aim is to contribute to the tech world through:
+- Innovative ideas
+- Creative thinking
+- Interactive experiences
+- Meaningful projects
+
+📩 You can reach out to me for collaborations, creative projects, or work related to my interests.  
+
+> *At a time, one thing — with full focus and dedication.*
+
+<br>
+
+---
+
 # ⚡ Tech & Tools
 
 ## 💻 Programming Languages
@@ -73,4 +136,91 @@
 </p>
 
 ---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</p>
+
+<p align="center">
+  <img width="65%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+</p>
+
+---
+
+# 🏆 Achievements & Goals
+
+🌟 Building projects that combine **Creativity + Logic**  
+🎯 Goal: Become a professional **Game Developer**  
+🧠 Learning something new every single day  
+🔥 Turning imagination into interactive experiences  
+
+---
+
+# 🌌 Fun Zone
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+  <a href="mailto:js4677294@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/JoySurya914934?t=wK_2ud9lErWe7dKyuJxHkw&s=09">
+    <img src="https://img.shields.io/badge/Twitter(X)-111111?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/sun_shineofwinter2005">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+</p>
+
+---
+
+# 🌌 Developer Mindset
+
+<p align="center">
+
+```cpp
+while(alive)
+{
+    learn();
+    build();
+    improve();
+    repeat();
+}
+````
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:203A43,100:0F2027&section=footer"/>
+</p>
 ```
