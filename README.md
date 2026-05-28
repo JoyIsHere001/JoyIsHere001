@@ -1,4 +1,12 @@
 <!-- ===================================================== -->
+<!--                 ANIMATED TOP BORDER                  -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:2C5364&height=3&section=header"/>
+</p>
+
+<!-- ===================================================== -->
 <!--                    ANIMATED HEADER                    -->
 <!-- ===================================================== -->
 
@@ -8,6 +16,10 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Joysurya%20Paul%20Chowdhury&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Programmer%20•%20Game%20Developer%20•%20Creative%20Thinker&descAlignY=60&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00F7FF&height=3&section=header"/>
 </p>
 
 ---
@@ -128,29 +140,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
-</p>
-
-<p align="center">
-  <img width="65%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-</p>
-
----
-
-# 🏆 Achievements & Goals
-
-🌟 Building projects that combine **Creativity + Logic**  
-🎯 Goal: Become a professional **Game Developer**  
-🧠 Learning something new every day  
-🔥 Turning imagination into interactive experiences  
-
----
-
 # 🌌 Fun Zone
 
 <p align="center">
@@ -203,13 +192,3 @@ while(alive)
     improve();
     repeat();
 }
-````
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:203A43,100:0F2027&section=footer"/>
-</p>
-```
