@@ -1,5 +1,9 @@
 # 💫 About Me
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student+%F0%9F%92%BB;Passionate+About+Modern+Technology+%F0%9F%9A%80;Game+Developer+%7C+Designer+%7C+Creative+Coder;Exploring+AI+and+Interactive+Experiences+%F0%9F%A7%A0;Turning+Raw+Ideas+Into+Reality+%E2%9C%A8;Learning+Something+New+Everyday+%F0%9F%94%A5" />
+</p>
+
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 🎓 I’m a **Bachelor's Computer Science student** passionate about **Modern Technology, Programming, Development, Designing, and Artificial Intelligence**.  
@@ -12,12 +16,15 @@
 - **Artificial Intelligence**
 - **Interactive Systems**
 
-🚀 Constantly improving my coding, development, and problem-solving skills through hands-on projects and continuous learning.  
+🚀 Constantly sharpening my coding, development, and problem-solving skills through hands-on projects and continuous learning.  
 
-🧠 I strongly believe in self-growth and discipline.  
-Focused on improving myself every day through productive activities, learning agendas, and consistency.  
+🧠 Focused on improving myself every single day through:
+- Productive activities
+- Learning agendas
+- Self development
+- Consistency & discipline
 
-⚡ I love creating things that combine:
+⚡ I love building things that combine:
 - Creativity
 - Technology
 - Human imagination
@@ -28,11 +35,16 @@ Focused on improving myself every day through productive activities, learning ag
 - Reading Books
 - Gaming
 - Art & Creativity
-- Self Development
+- Self Improvement
 
-🌱 My goal is to contribute to the tech world through innovative ideas, creative thinking, and impactful projects.  
+🌱 My aim is to contribute to the tech world through:
+- Innovative ideas
+- Creative thinking
+- Interactive experiences
+- Meaningful projects
 
 📩 You can reach out to me for collaborations, creative projects, or work related to my interests.  
+
 > *At a time, one thing — with full focus and dedication.*  
 
 ---
