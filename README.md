@@ -7,6 +7,10 @@
 <!-- ===================================================== -->
 <!--                    ANIMATED HEADER                    -->
 <!-- ===================================================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hey+There!+I'm+Joysurya+Paul+Chowdhury+👋;Bachelor's+Computer+Science+Student+💻;Game+Developer+•+Designer+•+Creative+Coder;Passionate+About+Modern+Technology+🚀;Exploring+AI+and+Interactive+Experiences+🧠;Turning+Raw+Ideas+Into+Interactive+Reality+✨;Building+Projects+with+Creativity+and+Logic+🔥;Learning+•+Building+•+Improving+Everyday+🚀" />
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00F7FF&height=3&section=header"/>
